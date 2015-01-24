@@ -1,3 +1,5 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Creating a new branch is quick and simple.
+这个项目是我学习Python的记录。
+
+书籍
+
+第一本：Python核心编程。
